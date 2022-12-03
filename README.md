@@ -40,7 +40,7 @@ Users should be able to:
 **Tablet Design**
 ![Tablet Design](screenshots/tablet.png)
 
-**Mobile Design**
+**Mobile Design** <br />
 ![Mobile Design](screenshots/mobile.png)
 
 ### Links
